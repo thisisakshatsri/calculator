@@ -1,4 +1,4 @@
-# Calculator-App
+# Calculator_Application
 The Windows Calculator app is a modern Windows app written in C++ that ships pre-installed with Windows.
 The app provides standard, scientific, and programmer calculator functionality, as well as a set of converters between various units of measurement and currencies.
 
@@ -22,7 +22,7 @@ Calculator ships regularly with new features and bug fixes. You can get the late
 
 ## Getting started
 Prerequisites:
-- Your computer must be running Windows 10, version 1803 or newer.
+- Your computer must be running Windows 10, version 1803 or Windows 11.
 - Install the latest version of [Visual Studio](https://developer.microsoft.com/en-us/windows/downloads) (the free community edition is sufficient).
   - Install the "Universal Windows Platform Development" workload.
   - Install the optional "C++ Universal Windows Platform tools" component.
