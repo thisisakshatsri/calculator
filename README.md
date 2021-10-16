@@ -72,5 +72,6 @@ Please refer to [SECURITY.md](./SECURITY.md).
 
 ## License
 Copyright (c) Microsoft Corporation. All rights reserved.
+// open community is great it's so much effective.
 
 Licensed under the [MIT License](./LICENSE).
